@@ -4,5 +4,5 @@ The Niagara SFTP and SSH clients provide convenient and secure integration betwe
 <img width="993" height="379" alt="b3573cecfbe8511304ae1ad5762cdccc" src="https://github.com/user-attachments/assets/64321c13-bcdf-4953-887e-062ed00eb584" />
 <img width="538" height="162" alt="image" src="https://github.com/user-attachments/assets/d887ee77-04b6-40da-9640-645c03ef031b" />
 
-If you are interested, welcome to contact us at jason.zhang@gline-net.com.
+If you are interested, welcome to contact us at jason.zhang@gline-net.com or WhatsApp +8613801909968.
 Copyright © 2026 Shanghai Gline Net Co., Ltd. All rights reserved.
