@@ -26,14 +26,6 @@
 
 ---
 
-## 📸 Demo
-
-> *🎥 Workbench demo GIF coming soon — drag, drop, and transfer in under 30 seconds.*
->
-> *In the meantime, check out the [User Manual](docs/User%20Manual%20Niagara%20SFTP%20%26%20SSH%20Client.pdf) for screenshots and setup instructions.*
-
----
-
 ## What Is It?
 
 A native Niagara 4 module that adds **SFTP file transfer** and **SSH command execution** capabilities to your station. No external tools, no scripting — just drag, drop, and configure.
