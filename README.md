@@ -6,3 +6,9 @@ The Niagara SFTP and SSH clients provide convenient and secure integration betwe
 
 If you are interested, welcome to contact us at jason.zhang@gline-net.com or WhatsApp +8613801909968.
 Copyright © 2026 Shanghai Gline Net Co., Ltd. All rights reserved.
+
+## Documentation
+
+| Manual | Description |
+|--------|-------------|
+| [User Manual](docs/User%20Manual%20Niagara%20SFTP%20%26%20SSH%20Client.pdf) | Complete user manual for the Niagara SFTP & SSH Client |
